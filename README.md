@@ -1,4 +1,4 @@
 # learner1
 this is my first repository
-<\n>
+"/n"
 student - priyanka nekkanti
